@@ -1,0 +1,11 @@
+C:\Users\yngthg\source\repos\Sockets_lab\Sockets_lab\bin\Debug\netcoreapp2.1\ChatServer.deps.json
+C:\Users\yngthg\source\repos\Sockets_lab\Sockets_lab\bin\Debug\netcoreapp2.1\ChatServer.runtimeconfig.json
+C:\Users\yngthg\source\repos\Sockets_lab\Sockets_lab\bin\Debug\netcoreapp2.1\ChatServer.runtimeconfig.dev.json
+C:\Users\yngthg\source\repos\Sockets_lab\Sockets_lab\bin\Debug\netcoreapp2.1\ChatServer.dll
+C:\Users\yngthg\source\repos\Sockets_lab\Sockets_lab\bin\Debug\netcoreapp2.1\ChatServer.pdb
+C:\Users\yngthg\source\repos\Sockets_lab\Sockets_lab\obj\Debug\netcoreapp2.1\ChatServer.csprojAssemblyReference.cache
+C:\Users\yngthg\source\repos\Sockets_lab\Sockets_lab\obj\Debug\netcoreapp2.1\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\yngthg\source\repos\Sockets_lab\Sockets_lab\obj\Debug\netcoreapp2.1\ChatServer.AssemblyInfoInputs.cache
+C:\Users\yngthg\source\repos\Sockets_lab\Sockets_lab\obj\Debug\netcoreapp2.1\ChatServer.AssemblyInfo.cs
+C:\Users\yngthg\source\repos\Sockets_lab\Sockets_lab\obj\Debug\netcoreapp2.1\ChatServer.dll
+C:\Users\yngthg\source\repos\Sockets_lab\Sockets_lab\obj\Debug\netcoreapp2.1\ChatServer.pdb
